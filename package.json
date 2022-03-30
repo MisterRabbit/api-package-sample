@@ -1,0 +1,22 @@
+{
+  "name": "api-package-sample",
+  "version": "1.0.0",
+  "description": "The sample of API package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterRabbit/api-package-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterRabbit/api-package-sample/issues"
+  },
+  "homepage": "https://github.com/MisterRabbit/api-package-sample#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
